@@ -1,2 +1,0 @@
-# microstrategyinvest
-Microstrategyinvest Repository
